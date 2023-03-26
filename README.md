@@ -22,7 +22,6 @@ Split and merge the image using cv2.split and cv2.merge commands.
 End the program and close the output image windows.
 
 ## Program:
-```python
 # Developed By:Sangeetha.K
 # Register Number:212221230085
 
